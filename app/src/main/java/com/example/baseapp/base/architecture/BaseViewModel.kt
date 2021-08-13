@@ -5,8 +5,8 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.example.baseapp.R
+import com.example.baseapp.base.extension.notifyLiveData
 import com.example.baseapp.domain.extensions.fromJsonToMap
-import de.vdata.evorsorge.presentation.base.extension.notifyLiveData
 import com.example.baseapp.base.model.NavigationModel
 import com.example.baseapp.base.model.SnackbarModel
 import com.example.baseapp.base.model.ToastModel

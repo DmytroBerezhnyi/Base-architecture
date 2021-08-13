@@ -1,4 +1,4 @@
-package de.vdata.evorsorge.presentation.base.extension
+package com.example.baseapp.base.extension
 
 import android.content.Context
 import android.content.DialogInterface
